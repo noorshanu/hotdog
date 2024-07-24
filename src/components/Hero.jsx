@@ -8,7 +8,7 @@ function Hero() {
       <div className=" container-wrapper pt-[25%] sm:pt-[1%]  overflow-hidden relative">
         <div>
           <h2 className=" text-center text-white font-bold">Welcome To</h2>
-        <h1 className=" font-dream font-bold text-3xl sm:text-6xl text-center ">Dog on Hot Dog</h1>
+        <h1 className=" font-dream font-bold text-3xl sm:text-6xl text-center ">Dog on <span>Hot</span> Dog</h1>
           {/* <a href="/" className="text-sm sm:text-2xl font-bold text-center flex justify-center my-4"> </a> */}
         </div>
         <img
