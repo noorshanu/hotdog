@@ -8,7 +8,7 @@ function Hero() {
       <div className=" container-wrapper pt-[25%] sm:pt-[1%]  overflow-hidden relative">
         <div>
           <h2 className=" text-center text-white font-bold">Welcome To</h2>
-        <h1 className=" font-dream font-bold text-3xl sm:text-6xl text-center ">Dog on <span>Hot</span> Dog</h1>
+        <h1 className=" font-dream font-bold text-3xl sm:text-6xl text-center ">Dog on <span className="text-[#de0718]">Hot</span> Dog</h1>
           {/* <a href="/" className="text-sm sm:text-2xl font-bold text-center flex justify-center my-4"> </a> */}
         </div>
         <img
@@ -21,24 +21,24 @@ function Hero() {
 
         <div className=" relative  "  data-aos="zoom-in-right"
           data-aos-duration="1500">
-          <div className=" flex sm:flex-row flex-col justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
+          <div className=" flex flex-row  justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
             <div className=" h-[1px] w-[18px] bg-black hidden sm:block"></div>
             <a
-              href="https://www.dextools.io/app/en/solana/pair-explorer/BmJzRiQyEwXB6kPADAc3xUGn68Yu5wkNSmZbjspjAvnS?t=1721393113503"
+              href="https://www.dextools.io/app/en/solana/pair-explorer/"
               className=" mx-auto font-dream box-s2  text-lg text-black bg-[#000] hover:bg-[#1a4093] rounded-full p-1 px-2 border-2 border-[#b95504]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}
               <img src="/images/dex.png" alt="" className=" h-[30px] w-auto" />
             </a>
             <a
-              href="https://t.me/PurplePepe_sol"
+              href="https://t.me/"
               className=" mx-auto font-dream box-s2  text-3xl text-white bg-[#000000] hover:bg-[#1a4093] rounded-full p-1 border-2 border-[#b95504] hover:text-[#fff]  text-center font-bold uppercase"
             >
               {" "}
               <BsTelegram />{" "}
             </a>
             <a
-              href="https://x.com/PurplePepe_Sol"
+              href="https://x.com/"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#b95504]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}
@@ -106,7 +106,7 @@ function Hero() {
         <p
          data-aos="zoom-in-up"
           data-aos-duration="1500"
-        className=" text-center font-medium text-sm sm:text-xl py-2 text-white max-w-full sm:max-w-[750px] mx-auto">
+        className=" text-center font-medium text-sm sm:text-xl py-2 text-white max-w-full sm:max-w-[750px] mx-auto bg-[#793220] rounded-xl box-s2 mb-2">
           Welcome to Purple Pepe. The only true OG Pepe on Solana. Purple Pepe:
           From Zero to Lambo Hero, making Solana great again - 1000x Profit for
           all.

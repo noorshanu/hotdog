@@ -3,9 +3,9 @@ import Marquee from "react-fast-marquee";
 
 function DexMark() {
   return (
-    <section className=" overflow-x-hidden bg-[#171c22] py-6 ">
+    <section className=" overflow-x-hidden bg-[#793220] py-6 ">
       <h1 className=" text-center text-2xl sm:text-4xl text-white py-6">
-      Onchain Data ⟱ $PUPE is now available on the following platforms.
+      Onchain Data $____ is now available on the following platforms.
       </h1>
       <div className=" relative">
         <div className=" my-4 ">

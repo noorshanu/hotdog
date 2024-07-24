@@ -17,10 +17,10 @@ function App() {
         <Hero />
         <BorderSec />
         <AboutUs />
-        <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 py-[2%] bg-[#0f131c] "  >
+        <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 py-[2%]  "  >
         
 
-          <h1 className=" text-3xl sm:text-6xl font-bold text-white font-dream" data-aos="zoom-in-up"
+          <h1 className=" text-3xl sm:text-6xl font-bold text-[#793220] font-dream" data-aos="zoom-in-up"
           data-aos-duration="1500">
             Tokenomics
           </h1>
@@ -32,8 +32,8 @@ function App() {
         <DexMark/>
         {/* <ChooseHero /> */}
         <HowToBuy />
-        <div className="main-bg2 pt-4">
-          <Faq />
+        <div className=" pt-4">
+          {/* <Faq /> */}
 
           <Footer />
         </div>
