@@ -14,7 +14,7 @@ function Navbar() {
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src="images/logo.png" className="h-[90px]" alt=" Logo" />
 
-          <h1 className="v font-dream text-xl sm:text-3xl font-bold text-black ">$ HT<span className="text-[#de0718]">DG</span></h1>
+          <h1 className="v font-dream text-xl sm:text-3xl font-bold text-black ">$ H<span className="text-[#de0718]">DOG</span></h1>
         </a>
 
         </div>

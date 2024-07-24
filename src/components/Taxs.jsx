@@ -86,7 +86,7 @@ function Taxs() {
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
                 SYMBOL
               </h5>
-              <p className="font-normal text-purple-300 text-center">$HTDG</p>
+              <p className="font-normal text-purple-300 text-center">$HDOG</p>
             </a>
           </div>
           <p className="text-center text-white mt-4">
