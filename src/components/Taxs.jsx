@@ -90,7 +90,7 @@ function Taxs() {
             </a>
           </div>
           <p className="text-center text-white mt-4">
-            Contract Adress: Soon.......
+            Contract Adress: 22gDriYX9SQASrV5PX4nAu5obefQhTyd8bZT4M9K1Mv3
           </p>
         </div>
       </div>
