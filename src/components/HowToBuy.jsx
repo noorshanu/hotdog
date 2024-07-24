@@ -16,7 +16,7 @@ function HowToBuy() {
               How To BUY
             </h1>
             <h2 className=" text-2xl sm:text-7xl font-bold font-dream py-2 text-center text-white">
-               #HTDG
+               $HDOG
             </h2>
           </div>
 
@@ -44,7 +44,7 @@ function HowToBuy() {
               href="/"
               className="  border-2    px-4 py-1 text-white  rounded-full text-2xl font-bold font-dream"
             >
-              Buy  #HTDG
+              Buy  $HDOG
             </a>
           </div>
 
