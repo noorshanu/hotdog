@@ -32,7 +32,7 @@ function Navbar() {
         <div className="md:flex items-center">
         <div className=" flex items-center gap-4 text-white  ml-5">
         <a
-                  href="https://x.com/" rel="noreferrer" target="_blank"
+                  href="https://x.com/Hotdog_Solanaa" rel="noreferrer" target="_blank"
                   className=" text-xl text-white bg-black hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -95,7 +95,7 @@ function Navbar() {
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
             <a
-                  href="https://x.com/"
+                  href="https://x.com/Hotdog_Solanaa"
                   className=" text-xl text-white bg-black hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
