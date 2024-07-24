@@ -7,7 +7,7 @@ function AboutUs() {
       id="about"
     >
       <div className=" container-wrapper pt-[5%]">
-        <div className="relative flex justify-between flex-col sm:flex-col-reverse items-center gap-4">
+        <div className="relative flex justify-between flex-col sm:flex-row-reverse items-center gap-4">
           <div
             className=" w-full sm:w-1/2 relative "
             data-aos="zoom-in-right"
@@ -26,10 +26,8 @@ function AboutUs() {
             </h1>
 
             <p className=" text-lg text-white  py-2 bg-[#793220] rounded-xl box-s2 px-2">
-              HOTDOG is a sassy, attractive dog meme set to lead the cat and dog
-              Solana world with his charm. With his confident swagger and
-              captivating looks, HOTDOG's mantra, "Let's go Lambo!" embodies his
-              mission to make a glamorous impact on the Solana ecosystem.
+            Welcome to the world of HOTDOG, where charm meets ambition! Prepare to be captivated by the sassiest dog in the Solana ecosystem. With HOTDOG leading the way, we're set to revolutionize the cat and dog meme space and aim for 1000x profits. Embrace the charisma, join the movement, and let's go Lambo together! <br />
+            HOTDOG is a sassy, attractive dog meme leading the cat and dog gang in the Solana world, satisfying the hunger for profit with his charm. His confident swagger and captivating looks drive his mission to make a glamorous impact, with the mantra, "Let's go Lambo!"
             </p>
 
             <div className=" m-4 mx-auto flex justify-center">

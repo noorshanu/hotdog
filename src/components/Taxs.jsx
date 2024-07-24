@@ -13,7 +13,7 @@ function Taxs() {
           className="block max-w-sm p-6 bg-[#793220] border border-gray-200 rounded-lg shadow hover:bg-gray-100  dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
         >
           <img src="/images/burn.png" alt="" className=" mx-auto" />
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
+          <h5 className="mb-2 text-2xl font-bold tracking-tight text-white dark:text-white text-center font-dream ">
             LP Burning
           </h5>
           <p className="font-normal text-purple-300  text-center">LP LOCKED</p>
@@ -24,7 +24,7 @@ function Taxs() {
           className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-[#793220] dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
         >
           <img src="/images/g3.png" alt="" className=" mx-auto" />
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
+          <h5 className="mb-2 text-2xl font-bold tracking-tight text-[#793220] dark:text-white text-center font-dream ">
             No Taxes
           </h5>
           <p className="font-normal text-purple-300 text-center">
@@ -37,7 +37,7 @@ function Taxs() {
           className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-[#793220] dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
         >
           <img src="/images/g2.png" alt="" className=" mx-auto" />
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
+          <h5 className="mb-2 text-2xl font-bold tracking-tight text-[#793220] dark:text-white text-center font-dream ">
             Contract
           </h5>
           <p className="font-normal text-purple-300 text-center">
@@ -50,7 +50,7 @@ function Taxs() {
           className="block max-w-sm p-6 bg-[#793220] border border-gray-200 rounded-lg shadow hover:bg-gray-100  dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
         >
           <img src="/images/mon.png" alt="" className=" mx-auto" />
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
+          <h5 className="mb-2 text-2xl font-bold tracking-tight text-white dark:text-white text-center font-dream ">
             Fair Launch
           </h5>
           <p className="font-normal text-purple-300 text-center">
