@@ -26,10 +26,10 @@ function AboutUs() {
             </h1>
 
             <p className=" text-lg text-white  py-2 bg-[#793220] rounded-xl box-s2 px-2">
-              Purple Pepe is the real alpha Pepe on Solana. From humble
-              beginnings to millionaire status with a flashy Lambo, $PUPE
-              journey is legendary. Now, he's on a mission to uplift his entire
-              bro gang.
+              HOTDOG is a sassy, attractive dog meme set to lead the cat and dog
+              Solana world with his charm. With his confident swagger and
+              captivating looks, HOTDOG's mantra, "Let's go Lambo!" embodies his
+              mission to make a glamorous impact on the Solana ecosystem.
             </p>
 
             <div className=" m-4 mx-auto flex justify-center">
@@ -40,7 +40,11 @@ function AboutUs() {
               rounded-full py-2 px-6 bg-[#793220] box-s2  hover:text-[#fff] text-center font-bold
                uppercase"
               >
-                <img src="images/dex.png" alt="" className=" w-auto h-[28px] mx-auto" />{" "}
+                <img
+                  src="images/dex.png"
+                  alt=""
+                  className=" w-auto h-[28px] mx-auto"
+                />{" "}
                 Buy Now
               </a>
             </div>

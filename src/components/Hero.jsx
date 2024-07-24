@@ -8,7 +8,9 @@ function Hero() {
       <div className=" container-wrapper pt-[25%] sm:pt-[1%]  overflow-hidden relative">
         <div>
           <h2 className=" text-center text-white font-bold">Welcome To</h2>
-        <h1 className=" font-dream font-bold text-3xl sm:text-6xl text-center ">Dog on <span className="text-[#de0718]">Hot</span> Dog</h1>
+          <h1 className=" font-dream font-bold text-3xl sm:text-6xl text-center ">
+            Dog on <span className="text-[#de0718]">Hot</span> Dog
+          </h1>
           {/* <a href="/" className="text-sm sm:text-2xl font-bold text-center flex justify-center my-4"> </a> */}
         </div>
         <img
@@ -19,8 +21,11 @@ function Hero() {
           data-aos-duration="1500"
         />
 
-        <div className=" relative  "  data-aos="zoom-in-right"
-          data-aos-duration="1500">
+        <div
+          className=" relative  "
+          data-aos="zoom-in-right"
+          data-aos-duration="1500"
+        >
           <div className=" flex flex-row  justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
             <div className=" h-[1px] w-[18px] bg-black hidden sm:block"></div>
             <a
@@ -48,8 +53,11 @@ function Hero() {
           </div>
         </div>
 
-        <div  data-aos="zoom-in-up"
-          data-aos-duration="1500" className=" flex mt-4 mb-2 items-center justify-center gap-2  relative z-20 py-1 bg-transparent  border-2 border-[#b95504] rounded-2xl w-full max-w-full sm:max-w-xl px-4 mx-auto">
+        <div
+          data-aos="zoom-in-up"
+          data-aos-duration="1500"
+          className=" flex mt-4 mb-2 items-center justify-center gap-2  relative z-20 py-1 bg-transparent  border-2 border-[#b95504] rounded-2xl w-full max-w-full sm:max-w-xl px-4 mx-auto"
+        >
           <CopyAddress />{" "}
           <button className="copy">
             <span
@@ -104,13 +112,11 @@ function Hero() {
         </div>
 
         <p
-         data-aos="zoom-in-up"
+          data-aos="zoom-in-up"
           data-aos-duration="1500"
-        className=" text-center font-medium text-sm sm:text-xl py-2 text-white max-w-full sm:max-w-[750px] mx-auto bg-[#793220] rounded-xl box-s2 mb-2">
-          Welcome to Purple Pepe. The only true OG Pepe on Solana. Purple Pepe:
-          From Zero to Lambo Hero, making Solana great again - 1000x Profit for
-          all.
-          Driven by unity and strength, the Purple Pepe community aims for financial freedom. With $PUPE leading the way, join the movement.
+          className=" text-center font-medium text-sm sm:text-xl py-2 text-white max-w-full sm:max-w-[750px] mx-auto bg-[#793220] rounded-xl box-s2 mb-2"
+        >
+         Chase HOTDOG charm to fetch 1000x profits in the Solana world!
         </p>
       </div>
     </section>
