@@ -13,8 +13,14 @@ function App() {
   return (
     <>
       <div className=" relative overflow-x-hidden">
+      <section class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
         <Navbar />
         <Hero />
+</section>
+    
         <BorderSec />
         <AboutUs />
         <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 py-[2%]  "  >
